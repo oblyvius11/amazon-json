@@ -1,19 +1,3 @@
-/**
- * file: proj4-ItemInfo.hpp
- * author: Prof. Aars
- * course: CSI 1440
- * assignment: project 4
- * due date: 2/27/2023
- *
- * date modified:  2/27/2023
- *    - file created
- *
- * This file is the header file.
- */
-
-#ifndef ITEMINFO_H
-#define ITEMINFO_H
-
 #include <iostream>
 #include <iomanip>
 
@@ -285,4 +269,4 @@ int stuCstrLen(const char *src);
  */
 ostream& printCString(ostream &out, const char *src);
 
-#endif
+
